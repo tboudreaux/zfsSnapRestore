@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Get all the datasets
 pools=$(zpool list -o name | sed -n '1!p')
 allDataSets=()
 for p in $pools; do
