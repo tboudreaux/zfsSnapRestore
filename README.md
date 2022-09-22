@@ -29,6 +29,11 @@ Now those files will be restored to the same location they were in in the
 snapshot but with their file names changed so that indicate they are a snap
 restore and what snap they came from.
 
+## Example
+Here is a silly movie of an example (the columns got a little messed up but I
+think it should still be clear)
+[![asciicast](https://asciinema.org/a/KN2BkMelNCq3pLlHFNkTXHAcT.svg)](https://asciinema.org/a/KN2BkMelNCq3pLlHFNkTXHAcT)
+
 ## Notes
 This is a script I use regually on my server and others may find it helpful;
 however, this is not something which I set out to maintain. Therefore, I will
