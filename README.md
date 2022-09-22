@@ -2,7 +2,8 @@
 Utility for easily restoring files from zfs snapshots
 
 ## Installation
-All you should have to do is put this script in your path
+You will need zsh, awk, grep, and vifm installed for this script to work. After
+that, all you should have to do is put this script in your path
 
 ## Usage
 
